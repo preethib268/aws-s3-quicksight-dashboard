@@ -50,6 +50,6 @@ This repository contains the internship report and documentation for a data anal
 
 ##  Contact
 
-For questions or collaboration, connect with me on [LinkedIn](www.linkedin.com/in/preethi-b-076062376) or explore more projects on [GitHub](https://github.com/preethi-b268).
+For questions or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/preethi-b-076062376) or explore more projects on [GitHub](https://github.com/preethi-b268).
 
 
